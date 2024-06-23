@@ -59,10 +59,3 @@ Additionally, I develop bots to automate work processes and attract customers. P
 </div>
 
 ###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg?short_path=68e728e)
