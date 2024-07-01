@@ -25,8 +25,8 @@
 <p style="font-weight: bold">I am a beginner Full-Stack developer.
 <br>
 <br>
-At the moment, I already have commercial development experience in JavaScript, PHP and Python. I am a member of the staff of programmers who develop crm solutions such as: Bitrix24, ZohoCRM and Amocrm.
-Additionally, I develop bots to automate work processes and attract customers. Previously, he was a Front-End presenter on several commercial projects. Additionally, she participated in the development of such projects as:
+At the moment I already have experience in commercial development in JavaScript, PHP and Python. I am a member of a staff of programmers who develop crm solutions for Bitrix24, Amocrm and ZohoCRM.
+I also develop bots for workflow automation and customer engagement. Previously I was Front-End lead on several commercial projects. In addition, I participated in the development of large projects such as:
 </p>
 - <a href="https://kontinent26.ru" style="color: #fff; text-decoration: underline">Континент</a>
 <br>- <a href="https://azottech.ru" style="color: #fff; text-decoration: underline">Азотех</a>
